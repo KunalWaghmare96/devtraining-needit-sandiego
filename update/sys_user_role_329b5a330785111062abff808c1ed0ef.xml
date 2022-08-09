@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by display_value="canvas_admin" name="canvas_admin">9706354bc713330072b211d4d8c260be</assignable_by>
+        <can_delegate>true</can_delegate>
+        <description>NeedIt application's user role </description>
+        <elevated_privilege>true</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.NeedIt application's user role</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>NeedIt application's user role </suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>kunalbw96</sys_created_by>
+        <sys_created_on>2022-08-08 11:54:52</sys_created_on>
+        <sys_id>329b5a330785111062abff808c1ed0ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.NeedIt application's user role</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_329b5a330785111062abff808c1ed0ef</sys_update_name>
+        <sys_updated_by>kunalbw96</sys_updated_by>
+        <sys_updated_on>2022-08-08 11:54:52</sys_updated_on>
+    </sys_user_role>
+</record_update>
